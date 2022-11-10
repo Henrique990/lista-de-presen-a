@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #7159c1;
+}
+
+.container h1 {
+    width: 50%;
+    padding: 24px;
+
+    background: #E6E6E6;
+    border-radius: 8px;
+    border: none;
+
+    font-size: 16px;
+}
+
+.container input {
+    width: 50%;
+    padding: 24px;
+
+    background: #E6E6E6;
+    border-radius: 8px;
+    border: 1px solid #000000;
+
+    font-size: 16px;
+}
+
+.container button {
+    width: 50%;
+    padding: 24px;
+
+    background: #ea4c89;
+
+    border-radius: 5px;
+    margin: 12px 0 84px;
+    border: none;
+
+    cursor: pointer;
+    transition: filter 0.2s;
+
+    font-size: 16px;
+
+}
