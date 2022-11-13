@@ -20,3 +20,5 @@
     * UseEffect
     * Consumir API
     * useEffect Async
+    * Imutabilidade
+    * Key Prop
