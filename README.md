@@ -7,7 +7,7 @@
     * CSS
     * Vite JS
 
-## O que estou aprendendo no projeto
+## O que aprendi no projeto
 
     * Estrutura React
     * Estrutura Pastas e Arquivos
@@ -23,4 +23,7 @@
     * Imutabilidade
     * Key Prop
     * Hooks
+    * useEffect
+    * Consumindo API
+    * useEffect Async
     
