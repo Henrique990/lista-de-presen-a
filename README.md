@@ -3,6 +3,7 @@
 ## Tecnologias
     * React JS
     * JavaScript
+    * TypeScript
     * HTML
     * CSS
     * Vite JS
@@ -26,4 +27,8 @@
     * useEffect
     * Consumindo API
     * useEffect Async
+    * Adicionando TypeScript
+    * Tipando Componente
+    * Tipando Estados 
+    * Tipando resposta da API
     
