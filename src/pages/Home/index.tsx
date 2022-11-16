@@ -34,7 +34,7 @@ export function Home() {
 
   useEffect(() => {
     async function fetchData() {
-      const response = await fetch('https://api.github.com/users/rodrigorgtic');
+      const response = await fetch('https://api.github.com/users/Henrique990');
       const data = await response.json() as ProfileResponse;
 
       setUser({
