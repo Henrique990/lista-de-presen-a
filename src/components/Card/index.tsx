@@ -1,4 +1,5 @@
 import './styles.css';
+import './styles-mobile.css';
 
  export type CardProps = {
     name: string;

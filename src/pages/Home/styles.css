@@ -8,6 +8,7 @@
     width: 50%;
     margin: 84px 0 24px;
     display: flex;
+    /* flex-direction: column; */
     justify-content: space-between;
     align-items: center;
   }
@@ -21,7 +22,7 @@
   
   .container header div {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
   }
   

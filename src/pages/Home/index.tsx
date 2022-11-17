@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './styles.css';
+import './styles-mobile.css';
 
 import { Card, CardProps } from '../../components/Card';
 
