@@ -1,5 +1,7 @@
 # Lista de Presença
 
+![print lista de presença](print-lista-de-presen%C3%A7a.png)
+
 ## Tecnologias
     * React JS
     * JavaScript
